@@ -1,0 +1,9 @@
+State variables:
+    Number of red opinions
+    Number of blue opinions
+    Number of red followers
+    Blue energy
+Actions:
+    The 5 messages
+Evaluation of state-action pair:
+    ((Change in red opinions) - (Change in blue opinions)) * (Rounds to win)
